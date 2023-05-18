@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+* {
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+#botao {
+  background-color: black;
+  color: white;
+  width: 20vw;
+  border-radius: 100px;
+  text-align: center;
+  padding: 10px 0px;
+  margin: auto;
+  cursor: pointer;
+}
+
+#itexto {
+  width: 30vw;
+  padding: 5px 10px;
+  border: none;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.50);
+}
